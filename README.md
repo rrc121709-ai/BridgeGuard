@@ -1,1 +1,1 @@
-# BridgeGuard
+# BridgeOfTrust
